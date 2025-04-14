@@ -1,7 +1,7 @@
 # BTL-TRR2-PTIT
 
 ## Mô tả dự án
-Đây là dự án BTL TRR2 PTIT (Tự động hoá Robot di chuyển trong môi trường có vật cản) được thực hiện tại PTIT. Dự án xây dựng một hệ thống lập kế hoạch đường đi cho robot, sử dụng các thuật toán như PRM (Probabilistic Roadmap) kết hợp với KD-Tree để xác định các điểm mẫu và tìm đường đi hiệu quả từ điểm xuất phát đến điểm đích.
+Đây là dự án Tự động hoá Robot di chuyển trong môi trường có vật cản . Dự án xây dựng một hệ thống lập kế hoạch đường đi cho robot, sử dụng các thuật toán PRM (Probabilistic Roadmap) xác định các điểm mẫu và tìm đường đi hiệu quả từ điểm xuất phát đến điểm đích.
 
 ## Các chức năng chính
 - Tạo các điểm mẫu (Sampling) trong không gian 2D, tránh các vật cản.
