@@ -69,4 +69,6 @@ pip install numpy matplotlib scipy
 
 ##  Một số lưu ý
 
-Bản Latex hiện tại **mới chỉ là demo**, cần chỉnh sửa lại nội dung,bố cục cho gọn gàng và chuẩn hơn,code được tham khảo và sửa lại dựa trên phiên bản mã nguồn mở.
+Bản Latex hiện tại **mới chỉ là demo**, cần chỉnh sửa lại nội dung,bố cục cho gọn gàng và chuẩn hơn,code được tham khảo và sửa lại dựa trên phiên bản mã nguồn mở.<br>
+Tham khảo mã nguồn gốc tại đây: [PythonRobotics - Probabilistic Road Map](https://github.com/AtsushiSakai/PythonRobotics/tree/master/PathPlanning/ProbabilisticRoadMap)
+
